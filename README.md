@@ -3,16 +3,19 @@ I'm tired of having to load a dozen images as layers into Photoshop or GIMP and 
 
 ## Requirements:
 - Python 3
- - PyQt5 (for the graphical interface)
+- PyQt5 (for the graphical interface)
 
 ## Installation
 1. Download the zip file or Clone this project to your computer.
 ```bash
 git clone https://github.com/Peginaw/fast-image-compare/
 ```
-1. If not already installed, install PyQt5 (Update pip first)
-```bash
+1. Update pip if neccessary
+```
 pip install --upgrade pip
+```
+1. Install the PyQt5 module for Python
+```bash
 pip install PyQt5
 ```
 ## How to Use
