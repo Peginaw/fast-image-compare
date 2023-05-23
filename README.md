@@ -1,4 +1,4 @@
-# fast-image-compare
+# Fast Image Compare
 I'm tired of having to load a dozen images as layers into Photoshop or GIMP and then painstakingly turn layers on and off to compare them, so I made this tool to quickly flip back and forth between variations of an image. The idea came from behind-the-scenes videos of traditional cartoon animators flipping their physical paper frames to see the motion as they worked.
 
 ## Requirements:
